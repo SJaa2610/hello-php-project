@@ -19,12 +19,12 @@ This project is a basic PHP application that demonstrates how to set up a simple
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/your_repository.git
+   https://github.com/SJaa2610/hello-php-project.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd your_repository
+   cd hello-php-project
    ```
 
 3. Install Apache and PHP (if running locally without Docker):
